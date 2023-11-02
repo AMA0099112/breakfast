@@ -17,7 +17,7 @@ $(document).ready(function () {
         if (isCorrect) {
 
             // 執行成功後的操作
-            window.location.href = 'last.html';
+            window.location.href = 'last1.html';
         } else {
             // 重置输入的值
             selectedValues.length = 0;
